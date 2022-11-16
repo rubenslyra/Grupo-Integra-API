@@ -2,6 +2,8 @@
 
 API de gestão e controle de dados empresariais. No exemplo, a API deve fornecer dados de performances das marcas e empresas pertencentes ao Grupo Integra, uma multimarcas fake criado para o exmeplo.
 
+![download](https://user-images.githubusercontent.com/37023108/202057814-ff6a9feb-f8bb-4eb2-8dd2-153ba0a9da50.png)
+
 ## Em Desenvolvimento
 
 ROTEIRO DE CRIAÇÃO E EXECUÇÃO
