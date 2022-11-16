@@ -1,9 +1,6 @@
-# Grupo-Integra-API
-API de gestão e controle de dados empresariais. No exemplo, a API deve fornecer dados de performances das marcas e empresas pertencentes ao Grupo Integra, uma multimarcas fake criado para o exmeplo.
-
-
 # Grupo-Integra-API | <img src="https://user-images.githubusercontent.com/37023108/202020758-685c1737-34f8-48e9-a16b-56cd9fd51547.jpg" alt="logo-solution" width="55px" line-height="1.5rem">
 
+API de gestão e controle de dados empresariais. No exemplo, a API deve fornecer dados de performances das marcas e empresas pertencentes ao Grupo Integra, uma multimarcas fake criado para o exmeplo.
 
 ## Em Desenvolvimento
 
